@@ -3,5 +3,5 @@
 config.json
 config.js
 config.py
-*.docs
 .venv
+*.docs
